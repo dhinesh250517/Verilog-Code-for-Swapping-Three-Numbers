@@ -46,11 +46,10 @@ module swap_three_numbers (
     end
 endmodule
 ```
-![exp31](https://github.com/user-attachments/assets/413cfbc1-bb0c-4729-80de-3b9d52b22347)
+![d1](https://github.com/user-attachments/assets/f0013cdb-76b3-4019-a2aa-fe2db4e9d685)
+![d2](https://github.com/user-attachments/assets/083cb43d-9f75-4ba2-8584-8957c6d48293)
 
-![exp32](https://github.com/user-attachments/assets/498387bb-fb29-44d8-b48b-ba86a57f0e57)
 
-![exp33](https://github.com/user-attachments/assets/418b7f4a-518c-45b2-9f24-2f14f28046be)
 
 
 ```

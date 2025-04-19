@@ -45,6 +45,9 @@ module swap_three_numbers (
         c_out = a_in; // Swap: c = a
     end
 endmodule
+![Screenshot 2024-10-04 201006](https://github.com/user-attachments/assets/7e259283-e224-4943-a8bc-5e9938c770b3)
+
+![Screenshot 2024-10-04 200952](https://github.com/user-attachments/assets/2962e1f9-d5d3-44ae-afd3-11b390095e5e)
 
 
 Testbench for Swapping Three Numbers:

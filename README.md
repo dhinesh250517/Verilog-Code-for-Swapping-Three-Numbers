@@ -46,8 +46,9 @@ module swap_three_numbers (
     end
 endmodule
 ```
-![d1](https://github.com/user-attachments/assets/f0013cdb-76b3-4019-a2aa-fe2db4e9d685)
-![d2](https://github.com/user-attachments/assets/083cb43d-9f75-4ba2-8584-8957c6d48293)
+
+![image](https://github.com/user-attachments/assets/bbc341ed-0f3e-4943-9100-1b308637a40c)
+![image](https://github.com/user-attachments/assets/03f4bdbf-86b1-419a-bc42-c2084b483513)
 
 
 
@@ -100,7 +101,8 @@ module swap_three_numbers_tb;
     end
 endmodule
 ```
-![3rd exp tb](https://github.com/user-attachments/assets/664e0ffc-1970-40a1-9ef4-10a093156c0d)
+![image](https://github.com/user-attachments/assets/8c667bfd-8cc4-4083-8964-fe22dd1dad57)
+
 
 
 
